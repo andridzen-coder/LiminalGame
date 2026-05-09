@@ -1,0 +1,26 @@
+{
+  "name": "liminal-backrooms-game",
+  "version": "1.0.0",
+  "description": "An interactive 3D liminal space game inspired by The Backrooms. Explore an endless parking lot under a deep night sky.",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "three.js",
+    "webgl",
+    "game",
+    "liminal",
+    "backrooms",
+    "interactive",
+    "3d",
+    "atmospheric"
+  ],
+  "author": "andridzen-coder",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "three": "^128.0.0"
+  }
+}
